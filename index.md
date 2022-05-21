@@ -14,10 +14,10 @@
 **If you do not have any content, fear not**. Just add any random folder(s) with 25GB or more content(On windows for example, the **“Program Files”** or **“Windows”** folders should suffice). Please read instructions written after point 8 if you choose to do this.
 
 
-5)	Close the preferences window and go to Hubs > Favourite Hubs. Alternatively, press Ctrl+U.
-6)	In the view, press right click and click on Add New. 
-7)	Enter the Name (DeZire Pilani), Address(hub.dcpilani.tk), Nick(Choose any name you would like to have) and User description( Description of content you shared earlier). You may enable Autoconnect on startup.  
-8)	There, you are done! Now help your friends/wingies install it, make sure to share this link. Continue to read **How to Use**
+5)	Close the preferences window and go to Hubs > Favourite Hubs. Alternatively, press Ctrl+U.  
+6)	In the view, press right click and click on Add New.   
+7)	Enter the Name (DeZire Pilani), Address(hub.dcpilani.tk), Nick(Choose any name you would like to have) and User description( Description of content you shared earlier). You may enable Autoconnect on startup.    
+8)	There, you are done! Now help your friends/wingies install it, make sure to share this link. Continue to read **How to Use**  
  
  
 <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/Slydite/DC-Guide/master/Picture1.png?v=4&h=500&w=300&maxage=7d"> 
