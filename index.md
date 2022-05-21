@@ -5,12 +5,11 @@
         --[Mac](https://sourceforge.net/projects/eiskaltdcpp/files/Linux/)  
         --[Linux](https://sourceforge.net/projects/eiskaltdcpp/files/Linux/)  
         **[`Note:` There are other alternatives available which might be better, you can find them in the FAQs]**
-
 2) Install and open it.
 3) Go to **Tools** > **Preferences** (at the bottom). Alternatively, press **Ctrl+O**.
-4) In Preferences, go to **Sharing** and add any content you have by **right clicking** in the **view** (white space on the right) and selecting **Add. Minimum 25GB.**    `IMPORTANT:`
-**If you do not have any content, fear not**. Just add any random folder(s) with 25GB or more content(On windows for example, the **“Program Files”** or **“Windows”** folders should suffice). Please read instructions written after point 8 if you choose to do this.
-
+4) In Preferences, go to **Sharing** and add any content you have by **right clicking** in the **view** (white space on the right) and selecting **Add. Minimum 25GB.**
+     `IMPORTANT:`
+    **If you do not have any content, fear not**. Just add any random folder(s) with 25GB or more content(On windows for example, the **“Program Files”** or **“Windows”** folders should suffice). Please read instructions written after point 8 if you choose to do this.
 5) Close the preferences window and go to Hubs > Favourite Hubs. Alternatively, press Ctrl+U.  
 6) In the view, press right click and click on Add New.
 7) Enter the Name (DeZire Pilani), Address(hub.dcpilani.tk), Nick(Choose any name you would like to have) and User description( Description of content you shared earlier). You may enable Autoconnect on startup.
